@@ -1,0 +1,6 @@
+{
+  "name": "ARIS — Advanced Research Intelligence System",
+  "description": "AI-powered integrated research workspace for semantic paper discovery, multimodal literature analysis, citation-grounded RAG, knowledge graphs, gap detection, reproducibility analysis, and academic writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
